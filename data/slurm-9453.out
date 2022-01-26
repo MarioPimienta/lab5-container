@@ -1,0 +1,30 @@
+########EJECUTANDO K-MER13.PY##########
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	1m44,280s
+user	1m44,121s
+sys	0m0,004s
+########EJECUTANDO K-MER14.PY##########
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	6m35,205s
+user	6m34,615s
+sys	0m0,001s
+########EJECUTANDO K-MER13.CPP#########
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	0m0,710s
+user	0m0,708s
+sys	0m0,001s
+########EJECUTANDO K-MER14.CPP#########
+Start
+
+real	0m2,786s
+user	0m2,782s
+sys	0m0,001s
