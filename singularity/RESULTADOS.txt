@@ -1,0 +1,30 @@
+Ejecutando con Singularity k-mer13.py
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	1m35,513s
+user	1m34,359s
+sys	0m0,202s
+Ejecutando con Singularity k-mer14.py
+Start
+Number of generated k-mers: 268435456
+Finish!
+
+real	6m12,185s
+user	6m11,430s
+sys	0m0,184s
+Ejecutando con Singularity k-mers13 C++
+Start
+Number of generated k-mers: 67108864
+Finish!
+
+real	0m0,976s
+user	0m0,814s
+sys	0m0,110s
+Ejecutando con Singularity k-mers14 C++
+Start
+
+real	0m2,874s
+user	0m2,722s
+sys	0m0,115s
