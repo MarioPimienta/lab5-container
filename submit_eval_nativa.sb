@@ -1,0 +1,14 @@
+#!/bin/bash
+#SBATCH -p hpc-bio-pacioli
+#SBATCH --chdir=/home/alumno19/lab5-container/data
+#SBATCH -J MarioLab2
+#SBATCH --cpus-per-task=8
+
+echo "########EJECUTANDO K-MER13.PY##########"
+time python3 ./k-mer13.py
+echo "########EJECUTANDO K-MER14.PY##########"
+time python3 ./k-mer14.py
+echo "########EJECUTANDO K-MER13.CPP#########"
+time ./k-mer13
+echo "########EJECUTANDO K-MER14.CPP#########"
+time ./k-mer14
